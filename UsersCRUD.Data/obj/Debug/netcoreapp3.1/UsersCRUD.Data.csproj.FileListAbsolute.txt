@@ -1,0 +1,10 @@
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.Data\bin\Debug\netcoreapp3.1\UsersCRUD.Data.deps.json
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.Data\bin\Debug\netcoreapp3.1\UsersCRUD.Data.dll
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.Data\bin\Debug\netcoreapp3.1\UsersCRUD.Data.pdb
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.Data\obj\Debug\netcoreapp3.1\UsersCRUD.Data.csproj.AssemblyReference.cache
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.Data\obj\Debug\netcoreapp3.1\UsersCRUD.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.Data\obj\Debug\netcoreapp3.1\UsersCRUD.Data.AssemblyInfoInputs.cache
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.Data\obj\Debug\netcoreapp3.1\UsersCRUD.Data.AssemblyInfo.cs
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.Data\obj\Debug\netcoreapp3.1\UsersCRUD.Data.csproj.CoreCompileInputs.cache
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.Data\obj\Debug\netcoreapp3.1\UsersCRUD.Data.dll
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.Data\obj\Debug\netcoreapp3.1\UsersCRUD.Data.pdb

@@ -1,8 +1,14 @@
+using Microsoft.EntityFrameworkCore;
+using UsersCRUD.Data.Context;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
+
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddDbContext<UsersCRUDContext>(opt => opt.UseSqlServer(builder.Configuration.GetConnectionString("UsersCRUDDB")).EnableSensitiveDataLogging());
 
 var app = builder.Build();
 
