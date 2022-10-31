@@ -1,0 +1,15 @@
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.IoC\bin\Debug\net6.0\UsersCRUD.IoC.deps.json
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.IoC\bin\Debug\net6.0\UsersCRUD.IoC.dll
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.IoC\bin\Debug\net6.0\UsersCRUD.IoC.pdb
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.IoC\bin\Debug\net6.0\UsersCRUD.Application.dll
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.IoC\bin\Debug\net6.0\UsersCRUD.Application.pdb
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.IoC\obj\Debug\net6.0\UsersCRUD.IoC.csproj.AssemblyReference.cache
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.IoC\obj\Debug\net6.0\UsersCRUD.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.IoC\obj\Debug\net6.0\UsersCRUD.IoC.AssemblyInfoInputs.cache
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.IoC\obj\Debug\net6.0\UsersCRUD.IoC.AssemblyInfo.cs
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.IoC\obj\Debug\net6.0\UsersCRUD.IoC.csproj.CoreCompileInputs.cache
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.IoC\obj\Debug\net6.0\UsersCRUD.IoC.csproj.CopyComplete
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.IoC\obj\Debug\net6.0\UsersCRUD.IoC.dll
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.IoC\obj\Debug\net6.0\refint\UsersCRUD.IoC.dll
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.IoC\obj\Debug\net6.0\UsersCRUD.IoC.pdb
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.IoC\obj\Debug\net6.0\ref\UsersCRUD.IoC.dll

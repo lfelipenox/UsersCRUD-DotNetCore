@@ -28,8 +28,17 @@ namespace UsersCRUD.Data.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("uniqueidentifier");
 
+                    b.Property<DateTime>("DateCreated")
+                        .HasColumnType("datetime2");
+
+                    b.Property<DateTime?>("DateUpdated")
+                        .HasColumnType("datetime2");
+
                     b.Property<string>("Email")
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool>("IsDeleted")
+                        .HasColumnType("bit");
 
                     b.Property<string>("Name")
                         .IsRequired()
@@ -44,7 +53,9 @@ namespace UsersCRUD.Data.Migrations
                         new
                         {
                             Id = new Guid("682cf4a8-396f-4c1b-a79d-86b4263b252e"),
+                            DateCreated = new DateTime(2022, 2, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             Email = "userdefault@usercrud.com",
+                            IsDeleted = false,
                             Name = "User Default"
                         });
                 });
