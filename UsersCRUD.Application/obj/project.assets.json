@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "UsersCRUD.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/UsersCRUD.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UsersCRUD.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "UsersCRUD.Domain/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibrary1/UsersCRUD.Domain.csproj",
+      "msbuildProject": "../ClassLibrary1/UsersCRUD.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "UsersCRUD.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\fe_be\\.nuget\\packages\\": {},
@@ -39,7 +58,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\fe_be\\source\\repos\\UsersCRUD\\ClassLibrary1\\UsersCRUD.Domain.csproj": {
+              "projectPath": "C:\\Users\\fe_be\\source\\repos\\UsersCRUD\\ClassLibrary1\\UsersCRUD.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

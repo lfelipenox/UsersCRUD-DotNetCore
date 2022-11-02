@@ -8,3 +8,6 @@ C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.Application\obj\Debug\netcoreapp
 C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.Application\obj\Debug\netcoreapp3.1\UsersCRUD.Application.csproj.CoreCompileInputs.cache
 C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.Application\obj\Debug\netcoreapp3.1\UsersCRUD.Application.dll
 C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.Application\obj\Debug\netcoreapp3.1\UsersCRUD.Application.pdb
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.Application\bin\Debug\netcoreapp3.1\UsersCRUD.Domain.dll
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.Application\bin\Debug\netcoreapp3.1\UsersCRUD.Domain.pdb
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.Application\obj\Debug\netcoreapp3.1\UsersCRUD.Application.csproj.CopyComplete

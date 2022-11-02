@@ -6,11 +6,11 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
-using Template.Domain.Interfaces;
+using UsersCRUD.Domain.Interfaces;
 using UsersCRUD.Data.Context;
 using UsersCRUD.Domain.Models;
 
-namespace Template.Data.Repositories
+namespace UsersCRUD.Data.Repositories
 {
     public class Repository<TEntity> : IRepository<TEntity> where TEntity : class
     {

@@ -4,14 +4,14 @@
     "C:\\Users\\fe_be\\source\\repos\\UsersCRUD\\UsersCRUD.IoC\\UsersCRUD.IoC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fe_be\\source\\repos\\UsersCRUD\\UsersCRUD.Application\\UsersCRUD.Application.csproj": {
+    "C:\\Users\\fe_be\\source\\repos\\UsersCRUD\\ClassLibrary1\\UsersCRUD.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fe_be\\source\\repos\\UsersCRUD\\UsersCRUD.Application\\UsersCRUD.Application.csproj",
-        "projectName": "UsersCRUD.Application",
-        "projectPath": "C:\\Users\\fe_be\\source\\repos\\UsersCRUD\\UsersCRUD.Application\\UsersCRUD.Application.csproj",
+        "projectUniqueName": "C:\\Users\\fe_be\\source\\repos\\UsersCRUD\\ClassLibrary1\\UsersCRUD.Domain.csproj",
+        "projectName": "UsersCRUD.Domain",
+        "projectPath": "C:\\Users\\fe_be\\source\\repos\\UsersCRUD\\ClassLibrary1\\UsersCRUD.Domain.csproj",
         "packagesPath": "C:\\Users\\fe_be\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fe_be\\source\\repos\\UsersCRUD\\UsersCRUD.Application\\obj\\",
+        "outputPath": "C:\\Users\\fe_be\\source\\repos\\UsersCRUD\\ClassLibrary1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -64,6 +64,148 @@
         }
       }
     },
+    "C:\\Users\\fe_be\\source\\repos\\UsersCRUD\\UsersCRUD.Application\\UsersCRUD.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fe_be\\source\\repos\\UsersCRUD\\UsersCRUD.Application\\UsersCRUD.Application.csproj",
+        "projectName": "UsersCRUD.Application",
+        "projectPath": "C:\\Users\\fe_be\\source\\repos\\UsersCRUD\\UsersCRUD.Application\\UsersCRUD.Application.csproj",
+        "packagesPath": "C:\\Users\\fe_be\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fe_be\\source\\repos\\UsersCRUD\\UsersCRUD.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fe_be\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\fe_be\\source\\repos\\UsersCRUD\\ClassLibrary1\\UsersCRUD.Domain.csproj": {
+                "projectPath": "C:\\Users\\fe_be\\source\\repos\\UsersCRUD\\ClassLibrary1\\UsersCRUD.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\fe_be\\source\\repos\\UsersCRUD\\UsersCRUD.Data\\UsersCRUD.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fe_be\\source\\repos\\UsersCRUD\\UsersCRUD.Data\\UsersCRUD.Data.csproj",
+        "projectName": "UsersCRUD.Data",
+        "projectPath": "C:\\Users\\fe_be\\source\\repos\\UsersCRUD\\UsersCRUD.Data\\UsersCRUD.Data.csproj",
+        "packagesPath": "C:\\Users\\fe_be\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fe_be\\source\\repos\\UsersCRUD\\UsersCRUD.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fe_be\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\fe_be\\source\\repos\\UsersCRUD\\ClassLibrary1\\UsersCRUD.Domain.csproj": {
+                "projectPath": "C:\\Users\\fe_be\\source\\repos\\UsersCRUD\\ClassLibrary1\\UsersCRUD.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\fe_be\\source\\repos\\UsersCRUD\\UsersCRUD.IoC\\UsersCRUD.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -95,6 +237,9 @@
             "projectReferences": {
               "C:\\Users\\fe_be\\source\\repos\\UsersCRUD\\UsersCRUD.Application\\UsersCRUD.Application.csproj": {
                 "projectPath": "C:\\Users\\fe_be\\source\\repos\\UsersCRUD\\UsersCRUD.Application\\UsersCRUD.Application.csproj"
+              },
+              "C:\\Users\\fe_be\\source\\repos\\UsersCRUD\\UsersCRUD.Data\\UsersCRUD.Data.csproj": {
+                "projectPath": "C:\\Users\\fe_be\\source\\repos\\UsersCRUD\\UsersCRUD.Data\\UsersCRUD.Data.csproj"
               }
             }
           }

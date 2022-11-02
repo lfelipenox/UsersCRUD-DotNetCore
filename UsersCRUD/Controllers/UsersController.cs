@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Runtime.CompilerServices;
 using UsersCRUD.Application.Interfaces;
+using UsersCRUD.Application.ViewModels;
 
 namespace UsersCRUD.Controllers
 {
@@ -19,8 +20,13 @@ namespace UsersCRUD.Controllers
         [HttpGet]
         public IActionResult Get()
         {
-            this.userService.Test();
-            return Ok("Ok");
+            return Ok(this.userService.Get());
+        }
+
+        [HttpPost]
+        public IActionResult Post(UserViewModel userViewModel)
+        {
+            return Ok(this.userService.Post(userViewModel));
         }
     }
 }
