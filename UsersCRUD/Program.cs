@@ -1,6 +1,8 @@
 using Microsoft.EntityFrameworkCore;
+using UsersCRUD.Application.AutoMapper;
 using UsersCRUD.Data.Context;
 using UsersCRUD.IoC;
+using AutoMapper;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,6 +14,8 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<UsersCRUDContext>(opt => opt.UseSqlServer(builder.Configuration.GetConnectionString("UsersCRUDDB")).EnableSensitiveDataLogging());
 
 NativeInjector.RegisterServices(builder.Services);
+
+builder.Services.AddAutoMapper(typeof(AutoMapperSetup));
 
 var app = builder.Build();
 
