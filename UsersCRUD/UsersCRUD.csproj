@@ -32,6 +32,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\UsersCRUD.Application\UsersCRUD.Application.csproj" />
+    <ProjectReference Include="..\UsersCRUD.Auth\UsersCRUD.Auth.csproj" />
     <ProjectReference Include="..\UsersCRUD.Data\UsersCRUD.Data.csproj" />
     <ProjectReference Include="..\UsersCRUD.IoC\UsersCRUD.IoC.csproj" />
     <ProjectReference Include="..\UsersCRUD.Swagger\UsersCRUD.Swagger.csproj" />

@@ -1,0 +1,15 @@
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.Auth\bin\Debug\net6.0\UsersCRUD.Auth.deps.json
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.Auth\bin\Debug\net6.0\UsersCRUD.Auth.dll
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.Auth\bin\Debug\net6.0\UsersCRUD.Auth.pdb
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.Auth\bin\Debug\net6.0\UsersCRUD.Domain.dll
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.Auth\bin\Debug\net6.0\UsersCRUD.Domain.pdb
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.Auth\obj\Debug\net6.0\UsersCRUD.Auth.csproj.AssemblyReference.cache
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.Auth\obj\Debug\net6.0\UsersCRUD.Auth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.Auth\obj\Debug\net6.0\UsersCRUD.Auth.AssemblyInfoInputs.cache
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.Auth\obj\Debug\net6.0\UsersCRUD.Auth.AssemblyInfo.cs
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.Auth\obj\Debug\net6.0\UsersCRUD.Auth.csproj.CoreCompileInputs.cache
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.Auth\obj\Debug\net6.0\UsersCRUD.Auth.csproj.CopyComplete
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.Auth\obj\Debug\net6.0\UsersCRUD.Auth.dll
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.Auth\obj\Debug\net6.0\refint\UsersCRUD.Auth.dll
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.Auth\obj\Debug\net6.0\UsersCRUD.Auth.pdb
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.Auth\obj\Debug\net6.0\ref\UsersCRUD.Auth.dll

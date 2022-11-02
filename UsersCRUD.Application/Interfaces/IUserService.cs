@@ -16,5 +16,7 @@ namespace UsersCRUD.Application.Interfaces
         bool Put(UserViewModel userViewModel);
 
         bool Delete(string id);
+
+        UserAuthenticateResponseViewModel Authenticate(UserAuthenticateRequestViewModel user);
     }
 }

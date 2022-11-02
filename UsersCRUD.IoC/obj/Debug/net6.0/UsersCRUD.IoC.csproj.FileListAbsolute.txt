@@ -2,7 +2,13 @@ C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.IoC\bin\Debug\net6.0\UsersCRUD.I
 C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.IoC\bin\Debug\net6.0\UsersCRUD.IoC.dll
 C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.IoC\bin\Debug\net6.0\UsersCRUD.IoC.pdb
 C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.IoC\bin\Debug\net6.0\UsersCRUD.Application.dll
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.IoC\bin\Debug\net6.0\UsersCRUD.Auth.dll
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.IoC\bin\Debug\net6.0\UsersCRUD.Data.dll
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.IoC\bin\Debug\net6.0\UsersCRUD.Domain.dll
 C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.IoC\bin\Debug\net6.0\UsersCRUD.Application.pdb
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.IoC\bin\Debug\net6.0\UsersCRUD.Data.pdb
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.IoC\bin\Debug\net6.0\UsersCRUD.Auth.pdb
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.IoC\bin\Debug\net6.0\UsersCRUD.Domain.pdb
 C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.IoC\obj\Debug\net6.0\UsersCRUD.IoC.csproj.AssemblyReference.cache
 C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.IoC\obj\Debug\net6.0\UsersCRUD.IoC.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.IoC\obj\Debug\net6.0\UsersCRUD.IoC.AssemblyInfoInputs.cache
@@ -13,7 +19,3 @@ C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.IoC\obj\Debug\net6.0\UsersCRUD.I
 C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.IoC\obj\Debug\net6.0\refint\UsersCRUD.IoC.dll
 C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.IoC\obj\Debug\net6.0\UsersCRUD.IoC.pdb
 C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.IoC\obj\Debug\net6.0\ref\UsersCRUD.IoC.dll
-C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.IoC\bin\Debug\net6.0\UsersCRUD.Data.dll
-C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.IoC\bin\Debug\net6.0\UsersCRUD.Domain.dll
-C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.IoC\bin\Debug\net6.0\UsersCRUD.Data.pdb
-C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.IoC\bin\Debug\net6.0\UsersCRUD.Domain.pdb

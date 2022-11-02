@@ -3,6 +3,10 @@ using Microsoft.AspNetCore.Mvc;
 using System.Runtime.CompilerServices;
 using UsersCRUD.Application.Interfaces;
 using UsersCRUD.Application.ViewModels;
+using UsersCRUD.Auth.Services;
+using Microsoft.AspNetCore.Authorization;
+
+
 
 namespace UsersCRUD.Controllers
 {
@@ -45,6 +49,12 @@ namespace UsersCRUD.Controllers
         public IActionResult Delete(string id)
         {
             return Ok(this.userService.Delete(id));
+        }
+
+        [HttpPost("authenticate")]
+        public IActionResult Authenticate(UserAuthenticateRequestViewModel userViewModel)
+        {
+            return Ok(this.userService.Authenticate(userViewModel));
         }
 
     }
