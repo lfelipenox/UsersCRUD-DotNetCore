@@ -3,6 +3,7 @@ using UsersCRUD.Application.AutoMapper;
 using UsersCRUD.Data.Context;
 using UsersCRUD.IoC;
 using AutoMapper;
+using UsersCRUD.Swagger;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -16,6 +17,7 @@ builder.Services.AddDbContext<UsersCRUDContext>(opt => opt.UseSqlServer(builder.
 NativeInjector.RegisterServices(builder.Services);
 
 builder.Services.AddAutoMapper(typeof(AutoMapperSetup));
+builder.Services.AddSwaggerConfiguration();
 
 var app = builder.Build();
 
@@ -26,6 +28,7 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
+app.UseSwaggerConfiguration();
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 app.UseRouting();

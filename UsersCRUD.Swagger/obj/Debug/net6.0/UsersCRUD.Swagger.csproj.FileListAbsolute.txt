@@ -1,0 +1,12 @@
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.Swagger\bin\Debug\net6.0\UsersCRUD.Swagger.deps.json
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.Swagger\bin\Debug\net6.0\UsersCRUD.Swagger.dll
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.Swagger\bin\Debug\net6.0\UsersCRUD.Swagger.pdb
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.Swagger\obj\Debug\net6.0\UsersCRUD.Swagger.csproj.AssemblyReference.cache
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.Swagger\obj\Debug\net6.0\UsersCRUD.Swagger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.Swagger\obj\Debug\net6.0\UsersCRUD.Swagger.AssemblyInfoInputs.cache
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.Swagger\obj\Debug\net6.0\UsersCRUD.Swagger.AssemblyInfo.cs
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.Swagger\obj\Debug\net6.0\UsersCRUD.Swagger.csproj.CoreCompileInputs.cache
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.Swagger\obj\Debug\net6.0\UsersCRUD.Swagger.dll
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.Swagger\obj\Debug\net6.0\refint\UsersCRUD.Swagger.dll
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.Swagger\obj\Debug\net6.0\UsersCRUD.Swagger.pdb
+C:\Users\fe_be\source\repos\UsersCRUD\UsersCRUD.Swagger\obj\Debug\net6.0\ref\UsersCRUD.Swagger.dll
